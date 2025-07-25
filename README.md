@@ -13,7 +13,7 @@ The following SQL queries were executed to explore the dataset and answer specif
 
 **1. Filtering Records for Male Patients from the 'southwest' Region:**
     * This query retrieves all data entries for male patients residing in the 'southwest' geographical region.
-    * ![q1](https://github.com/Geethesh19/SQL-Insurance-Claim-Analysis/assets/52094094/fd07adbf-79f6-43e5-96fc-7ce2c396c1f8)
+    * ![q1]("C:\Users\geeth\Downloads\q1.png")
 
 **2. Identifying Patients with BMI in a Specific Range (30 to 45 Inclusive):**
     * Retrieves records for patients whose Body Mass Index (BMI) falls within the range of 30 to 45 (inclusive), useful for identifying overweight or obese individuals.
